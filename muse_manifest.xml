@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portalbiomedica.com" resolutions="1x" timestamp="1550824619484">
+  <folder name="css">
+    <file name="site_global.css" crc="320234983"/>
+    <file name="portal-ib-proyecto-2.css" crc="4177689536" ref="portal-ib-proyecto-2"/>
+    <file name="portal-ib-proyecto-1.css" crc="4147675340" ref="portal-ib-proyecto-1"/>
+    <file name="portal-ib-calendario.css" crc="4102843122" ref="portal-ib-calendario"/>
+    <file name="index.css" crc="319586597" ref="index"/>
+    <file name="portal-ib-nosotros.css" crc="128324227" ref="portal-ib-nosotros"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="museutils.js" crc="340535759" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="require.js" crc="7928878" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="webpro.js" crc="4059564322" ref="portal-ib-proyecto-2:portal-ib-nosotros:portal-ib-proyecto-1"/>
+    <file name="form_check.php" crc="4020933626" ref="portal-ib-proyecto-2"/>
+    <file name="form_throttle.php" crc="4259590256" ref="portal-ib-proyecto-2"/>
+    <file name="form_process.php" crc="37464564" ref="portal-ib-proyecto-2"/>
+    <file name="form-u1983.php" crc="3770602365" ref="portal-ib-proyecto-2"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="portal-ib-nosotros"/>
+    <file name="form-u6290.php" crc="4023420578" ref="portal-ib-nosotros"/>
+    <file name="form-u5918.php" crc="4060162754" ref="portal-ib-proyecto-1"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_oficial-heredia.png" crc="360830896" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portal-ib-nosotros" alt=""/>
+      <caption webpage="portal-ib-proyecto-2" alt=""/>
+      <caption webpage="portal-ib-proyecto-1" alt=""/>
+      <caption webpage="portal-ib-calendario" alt=""/>
+    </file>
+    <file name="logo-pucp-version2-color.png" crc="3984154326" ref="index:portal-ib-proyecto-2:portal-ib-calendario:portal-ib-nosotros:portal-ib-proyecto-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portal-ib-nosotros" alt=""/>
+      <caption webpage="portal-ib-proyecto-2" alt=""/>
+      <caption webpage="portal-ib-proyecto-1" alt=""/>
+      <caption webpage="portal-ib-calendario" alt=""/>
+    </file>
+    <file name="banner 10.jpg" crc="90986325" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-02.jpg" crc="524066571" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190207-wa0133.jpg" crc="4152222647" ref="portal-ib-calendario">
+      <caption webpage="portal-ib-calendario" alt=""/>
+    </file>
+    <file name="img-20190209-wa0000.jpg" crc="4208998727" ref="portal-ib-calendario">
+      <caption webpage="portal-ib-calendario" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="36322849" seo="true" mt="1550822186884" redirect="true"/>
+  <file name="portal-ib-proyecto-2.html" crc="3908497094" seo="true" mt="1550822911776" redirect="true"/>
+  <file name="portal-ib-calendario.html" crc="2353537" seo="true" mt="1550821566991" redirect="true"/>
+  <file name="portal-ib-nosotros.html" crc="3861913027" seo="true" mt="1550824283413" redirect="true"/>
+  <file name="portal-ib-proyecto-1.html" crc="374325402" seo="true" mt="1550823131137" redirect="true"/>
+</manifest>
